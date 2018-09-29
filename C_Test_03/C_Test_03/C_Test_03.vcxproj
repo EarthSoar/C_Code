@@ -65,6 +65,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="calc.c" />
+    <ClCompile Include="GuessNumber.c" />
     <ClCompile Include="PrintPattern.c" />
     <ClCompile Include="Pri_NarcissisticNumber.c" />
     <ClCompile Include="test.c" />
