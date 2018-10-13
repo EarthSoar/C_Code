@@ -1,8 +1,8 @@
-//#define _CRT_SECURE_NO_WARNINGS
-//#include <stdio.h>
-//#include <stdlib.h>
-//#include <string.h>
-////编写代码，模拟用户登录情形，只允许输入三次密码，如果输入正确打印登陆成功，失败则重新输入，三次均错误，提示禁止登录。
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+//编写代码，模拟用户登录情形，只允许输入三次密码，如果输入正确打印登陆成功，失败则重新输入，三次均错误，提示禁止登录。
 int main(){
 	char password[] = "123456";//正确密码
 	char input[] = { 0 };
