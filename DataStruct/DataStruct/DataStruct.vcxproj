@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{AA556BA1-2728-40F2-81F2-9904160277FE}</ProjectGuid>
-    <RootNamespace>C_Test_04</RootNamespace>
+    <ProjectGuid>{CBC41611-2B88-433C-A61D-534CA097D4D5}</ProjectGuid>
+    <RootNamespace>DataStruct</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,12 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BinarySearch.c" />
-    <ClCompile Include="Factor.c" />
-    <ClCompile Include="Login.c" />
-    <ClCompile Include="PrintPattern.c" />
-    <ClCompile Include="shutdown.c" />
-    <ClCompile Include="test.c" />
+    <ClCompile Include="hello.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

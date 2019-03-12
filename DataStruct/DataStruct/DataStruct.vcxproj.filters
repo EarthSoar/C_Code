@@ -15,22 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PrintPattern.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Login.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Factor.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="BinarySearch.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="shutdown.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="test.c">
+    <ClCompile Include="hello.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
